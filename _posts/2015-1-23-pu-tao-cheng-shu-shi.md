@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 葡萄成熟时
-category: 转载
+title: Kaimei's dairy
+category: pika
 ---
 	陈奕迅
 
