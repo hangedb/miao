@@ -1,0 +1,29 @@
+# General Jekyll Config
+markdown: kramdown
+pygments: true
+url: http://jkxqj.github.io/
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#3498db'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: dangedb
+   
+    weibo: dangedb
+ 
+    twitter: dangedb
+ 
+
+  # "Hi, I'm _______"
+  name:  dangedb
+  email: 1551739226@qq.com
+  tagline: "dangedb is always handsome!"
+
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
